@@ -1,0 +1,133 @@
+/* header */
+
+.navbar a{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  color:rgb(14, 14, 14);
+}
+
+.titleLogo{
+  margin-left: 0px;
+}
+.titleLogo img{
+  width: 20%;
+  height: 40px;
+}
+.navbar-brand .yellow {
+  color: rgb(237, 204, 40);
+}
+
+.navbar-brand .red {
+  color: red;
+}
+
+
+.titleAddEmployees{
+  color:red
+}
+.iconRight{
+  margin-right: 80px;
+  font-weight: bolder;
+  font-weight: bold;
+  justify-content: space-between; /* Phân chia khoảng cách giữa các phần tử */
+  gap: 20px; /* Khoảng cách giữa các icon */
+}
+
+.carousel-item  img{
+  margin-top: 50px;
+  width: 100%;
+  height: 650px;
+}
+
+
+/* newArrivals */
+.newArrivals {
+  font-weight: bolder;
+  font-size: 22px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.hr {
+  width: 15%;
+  border: 2px solid rgb(8, 2, 2);
+}
+.newArrivalsCard img{
+height: 520px;
+} 
+
+
+.newArrivalsCard:hover .card-img-top {
+  /* transform: scale(1.1); Phóng to ảnh lên 120% khi hover vào card */
+  box-shadow: 3px 0px 3px  rgba(0, 0, 0, 0.5); /* Thêm hiệu ứng bóng đổ */
+}
+
+.noBorder {
+  border: none;
+}
+.money {
+  color: red;
+  font-weight: bold;
+}
+.btnArrivals{
+  width: 40%;
+  align-items: center;
+  
+}
+.small-img img{
+  width: 100%;
+  height: 336px;
+}
+
+
+.cardProduct img{
+  height: 330px;
+}
+
+
+.fixed-bottom{
+  margin-top: 100px;
+}
+
+/* listProduct */
+.listProduct  h5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.listProduct p {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+
+
+/* footer */
+.list-unstyled  li a {
+  text-decoration: none;
+  color: white;
+}
+.list-unstyled li:hover a{
+  color: red;
+}
+
+footer{
+  background-color: black;
+}
+/* button fillter */
+.buttonColor  button {
+  margin-right: 10px;
+  
+}
+
+
+.page-link {
+  background-color: black; /* Màu nền đen */
+  color: white; /* Màu chữ trắng */
+}
+
+
+/* shop single */
+.quantityShop{
+  width: 50%;
+}
+
+
+
+

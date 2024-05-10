@@ -1,0 +1,43 @@
+.footer{
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.footer h4{
+    color: white;
+}
+/* style.css */
+/* Navbar brand */
+.navbar-brand {
+    font-size: 1.5rem; /* Adjust the font size as needed */
+  }
+  
+  /* Navbar toggler icon */
+  .navbar-toggler-icon {
+    color: #000; /* Change the color of the toggler icon */
+  }
+  
+  /* Navbar links */
+  .navbar-nav .nav-link {
+    font-size: 1rem; /* Adjust the font size as needed */
+    padding: 0.5rem 1rem; /* Adjust the padding as needed */
+  }
+  
+  /* Navbar dropdown */
+  .dropdown-menu {
+    background-color: #f8f9fa; /* Change the background color of the dropdown menu */
+  }
+  
+  .dropdown-menu a.dropdown-item {
+    color: #000; /* Change the color of dropdown items */
+  }
+  
+  /* Navbar search, user, cart icons */
+  .nav-link i {
+    font-size: 1.2rem; /* Adjust the font size as needed */
+    margin-left: 10px; /* Add some spacing between icons */
+  }
